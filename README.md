@@ -1,4 +1,4 @@
-# Hi, I'm Thom aka early_prototype
+# Hi, I'm Thom (aka early_prototype)
 
 **I build tools that help people and AI systems work together** — MCP servers, Claude Code plugins, and agent workflows designed to be genuinely usable, not just demos.
 
