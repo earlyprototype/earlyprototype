@@ -1,28 +1,33 @@
-# Hi, I'm Thom (aka early_prototype)
+# Hi, I'm Thom 👋
 
-**I build tools that help people and AI systems work, explore and learn together** — MCP servers, Claude Code plugins, and agent workflows designed to be genuinely usable, not just demos.
+**I build AI agent tooling** — MCP servers, orchestration frameworks, and the plumbing that makes AI-assisted work reliable.
 
-I am a creative technologist, designer and learning specialist fascinated by our accelerating journey towards the future of work. Today I focus on the intersection of these domains and develop things to effectively and consistantly leverage AI to help people actualise their true potential. This includes how people and AI agents share tasks, construct durable systems, and keep humans in control of the result.
+I care about the parts most AI projects skip: **human-approval gates, tests that catch real bugs, and honest status.** Several of the tools below run my own daily workflow. My background is in design, digital fabrication, and innovation education.
 
 ---
 
-## 🧩 Infrastructure & Workflow
+## 🧩 MCP servers & agent tooling
 
-- **[kanbanger](https://github.com/earlyprototype/kanbanger-partymix)** — An MCP server that lets an AI assistant manage a shared kanban board, with a human-approval gate before any task is marked *done*. A coordination layer for mixed human/agent work.
-- **[early-prototype](https://github.com/earlyprototype/early-prototype) [Claude Code Skills/Plugin Marketplace]** — My Claude Code plugin marketplace. Turns a full Product → PM → Worker session workflow into installable skills and hooks, so agent handoffs happen as ambient infrastructure instead of manual steps.
-- **[notebooklm-py-MCP](https://github.com/earlyprototype/notebooklm-py-MCP)** — An MCP server exposing Google NotebookLM as 72 tools for AI agents, with a streamlined 14-tool edition for everyday use.
-- **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: a spec-driven framework for deliberate AI development that prioritises understanding over speed — a counterweight to "vibe coding".
+- **[kanbanger](https://github.com/earlyprototype/kanbanger)** — An MCP kanban server where an AI can *propose* work is done, but only a human can approve it — enforced server-side, not by a prompt. 160 tests, ADR-documented performance work.
+- **[thought_bubble](https://github.com/earlyprototype/thought_bubble)** ⭐ — An MCP server that turns documents into themed, self-contained HTML with server-rendered Mermaid diagrams and D3 charts — offline, one pipeline. 172 tests.
+- **[notebooklm-py-MCP](https://github.com/earlyprototype/notebooklm-py-MCP)** — Exposes Google NotebookLM as 72 agent tools, audited against the live SDK with introspection tests that caught 11 real bugs. (Plus a 14-tool edition for daily use.)
+- **[hunch_kit](https://github.com/earlyprototype/hunch_kit)** — A local-first experiment framework — isolate one variable, track lineage, score by human judgement — with a full MCP server. 61 tests.
 
-## 🧪 Research & Creative Experiments
+## 🔷 Orchestrating AI agents
 
-- **[Activation Tensor Resonance](https://github.com/earlyprototype/lucier-gpt2-activ-tensor-reson-experiments)** — Inspired by Alvin Lucier's *I Am Sitting in a Room*, this loops GPT-2's own activations back through the model 500 times to surface the attractor states hidden in its weight geometry. Clear about what's demonstrated versus hypothesised.
+- **[early-prototype](https://github.com/earlyprototype/early-prototype)** — My Claude Code plugin marketplace: turns solo AI-agent sessions into auditable PM → Worker cycles, with race-safe session identity and human approval before any agent's work counts as done.
+- **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: an 18-workflow prompt framework (with its own MCP server) for deliberate AI development — built from real use, including an 85,000-word paper analysis.
 
-## 🔬 Tools
+## 🔬 Applied AI tools
 
-- **[hunch_kit](https://github.com/earlyprototype/hunch_kit)** — A local-first experiment framework for creative AI workflows: isolate one variable, track lineage, and score outputs that need human judgement. 61 tests, MIT-licensed.
-- **[meTube](https://github.com/earlyprototype/meTube)** — A TypeScript CLI that turns YouTube watch history into a searchable knowledge base — a dual transcript pipeline (captions with automatic Whisper fallback) and entities extracted by Gemini.
-- **[plasticFlower](https://github.com/earlyprototype/plasticFlowers)** — A live mindmap that listens to a conversation and builds an emergent knowledge graph in real time via Gemini.
-- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — Build and explore interactive knowledge graphs for research, systems mapping, and stakeholder analysis.
+- **[meTube](https://github.com/earlyprototype/meTube)** — A TypeScript CLI turning YouTube history into a searchable knowledge base (dual transcript pipeline + Gemini). It then audited itself, caught its own silent data-loss bugs, and got rewritten with compiler-enforced invariants. 740+ tests, green CI.
+- **[plasticFlower](https://github.com/earlyprototype/plasticFlowers)** — A real-time speech → knowledge-graph engine (Gemini, Neo4j, Redis Streams) with a hand-built graph-physics layout.
+- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — A config-driven knowledge-graph builder with citation provenance, generalized from a research tool I actually use.
+- **[FabLatticeGPT](https://github.com/earlyprototype/FabLatticeGPT)** — A phase-gated AI advisor that stops FabLab members solutioning before their idea is scoped — built for an Enterprise FabLab role via the OpenAI SME Accelerator.
+
+## 🧪 Research
+
+- **[Activation Tensor Resonance](https://github.com/earlyprototype/lucier-gpt2-activ-tensor-reson-experiments)** — Looped GPT-2's own activations back through itself 500× and found it always collapses to one of five words — then built a 125-prompt sweep to try to *falsify* that before trusting it. (Dashboard generated with my own thought_bubble tool.)
 
 ---
 
