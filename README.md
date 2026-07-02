@@ -28,7 +28,6 @@ I care about the parts most projects skip: **human-approval gates, tests that ca
 
 - **[meTube](https://github.com/earlyprototype/meTube)** — A TypeScript CLI turning YouTube history into a searchable knowledge base (dual transcript pipeline + Gemini). It then audited itself, caught its own silent data-loss bugs, and got rewritten with compiler-enforced invariants. 740+ tests, green CI.
 - **[plasticFlowers](https://github.com/earlyprototype/plasticFlowers)** — A real-time speech → knowledge-graph engine (Gemini, Neo4j, Redis Streams) with a hand-built graph-physics layout.
-- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — A config-driven knowledge-graph builder with citation provenance, generalized from a research tool I actually use.
 
 ## 🧪 Research
 
