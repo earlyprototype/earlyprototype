@@ -1,4 +1,4 @@
-# Hi, I'm Thom 👋
+# Hi, I'm Thom Conaty (I use 'early_prototype' for my work)
 
 **I build tools that help people and AI systems work together** — MCP servers, Claude Code plugins, and agent workflows designed to be genuinely usable, not just demos.
 
