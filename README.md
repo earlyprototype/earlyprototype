@@ -1,10 +1,16 @@
 # Hi, I'm Thom 👋
 
-**I build AI agent tooling** — MCP servers, orchestration frameworks, and the plumbing that makes AI-assisted work reliable.
+**Service designer who builds.** I design services, courses and assessment instruments for innovation spaces — and I build the AI systems that run them: MCP servers, human-in-the-loop tooling, orchestration frameworks.
 
-I care about the parts most AI projects skip: **human-approval gates, tests that catch real bugs, and honest status.** Several of the tools below run my own daily workflow. My background is in design, digital fabrication, and innovation education.
+I care about the parts most projects skip: **human-approval gates, tests that catch real bugs, and honest status.** Everything below is built from real practice, not tutorials — several of these tools run my own daily workflow.
 
 ---
+
+## 🗺️ Design & method
+
+- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — Systems-mapping and ecosystem-mapping templates for an LLM-integrated knowledge graph: stakeholder influence, value flows, and insight provenance as first-class data.
+- **[FabLatticeGPT](https://github.com/earlyprototype/FabLatticeGPT)** — A discovery-before-assessment AI advisor from my FabLab practice: it stops members solutioning before their idea is scoped. Built via the OpenAI SME Accelerator.
+- **[FALSE FLAG](https://github.com/earlyprototype/wargame)** — An LLM-driven crisis simulation: multi-agent cabinet advisors, free-form adjudicated decisions, grounded in real NATO wargaming research.
 
 ## 🧩 MCP servers & agent tooling
 
@@ -21,9 +27,8 @@ I care about the parts most AI projects skip: **human-approval gates, tests that
 ## 🔬 Applied AI tools
 
 - **[meTube](https://github.com/earlyprototype/meTube)** — A TypeScript CLI turning YouTube history into a searchable knowledge base (dual transcript pipeline + Gemini). It then audited itself, caught its own silent data-loss bugs, and got rewritten with compiler-enforced invariants. 740+ tests, green CI.
-- **[plasticFlower](https://github.com/earlyprototype/plasticFlowers)** — A real-time speech → knowledge-graph engine (Gemini, Neo4j, Redis Streams) with a hand-built graph-physics layout.
+- **[plasticFlowers](https://github.com/earlyprototype/plasticFlowers)** — A real-time speech → knowledge-graph engine (Gemini, Neo4j, Redis Streams) with a hand-built graph-physics layout.
 - **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — A config-driven knowledge-graph builder with citation provenance, generalized from a research tool I actually use.
-- **[FabLatticeGPT](https://github.com/earlyprototype/FabLatticeGPT)** — A phase-gated AI advisor that stops FabLab members solutioning before their idea is scoped — built for an Enterprise FabLab role via the OpenAI SME Accelerator.
 
 ## 🧪 Research
 
