@@ -8,7 +8,7 @@ I am a creative technologist, designer and learning specialist fascinated by our
 
 ## 🧩 Agent & AI infrastructure
 
-- **[kanbanger-partymix](https://github.com/earlyprototype/kanbanger-partymix)** — An MCP server that lets an AI assistant manage a shared kanban board, with a human-approval gate before any task is marked *done*. A coordination layer for mixed human/agent work.
+- **[kanbanger](https://github.com/earlyprototype/kanbanger-partymix)** — An MCP server that lets an AI assistant manage a shared kanban board, with a human-approval gate before any task is marked *done*. A coordination layer for mixed human/agent work.
 - **[early-prototype](https://github.com/earlyprototype/early-prototype)** — My Claude Code plugin marketplace. Turns a full Product → PM → Worker session workflow into installable skills and hooks, so agent handoffs happen as ambient infrastructure instead of manual steps.
 - **[notebooklm-py-MCP](https://github.com/earlyprototype/notebooklm-py-MCP)** — An MCP server exposing Google NotebookLM as 72 tools for AI agents, with a streamlined 14-tool edition for everyday use.
 - **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: a spec-driven framework for deliberate AI development that prioritises understanding over speed — a counterweight to "vibe coding".
