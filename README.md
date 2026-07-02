@@ -1,6 +1,6 @@
 # Hi, I'm Thom (aka early_prototype)
 
-**I build tools that help people and AI systems work together** — MCP servers, Claude Code plugins, and agent workflows designed to be genuinely usable, not just demos.
+**I build tools that help people and AI systems work, explore and learn together** — MCP servers, Claude Code plugins, and agent workflows designed to be genuinely usable, not just demos.
 
 I am a creative technologist, designer and learning specialist fascinated by our accelerating journey towards the future of work. Today I focus on the intersection of these domains and develop things to effectively and consistantly leverage AI to help people actualise their true potential. This includes how people and AI agents share tasks, construct durable systems, and keep humans in control of the result.
 
