@@ -14,15 +14,15 @@ I believe effective use of AI-as-collaborator has the potential to radically res
 
 ## MCP servers & agent tooling
 
-- **[kanbanger](https://github.com/earlyprototype/kanbanger)** — An MCP kanban server where an AI can *propose* work is done, but only a human can approve it — enforced server-side, not by a prompt. 
+- **[kanbanger](https://github.com/earlyprototype/kanbanger)** — An MCP kanban server with Github Projects board sync and server-side enforced gated actions for seamless, multi-agent collaboration. 
 - **[thought_bubble](https://github.com/earlyprototype/thought_bubble)** — An MCP server that turns documents into themed, self-contained HTML with server-rendered Mermaid diagrams and D3 charts — offline, one pipeline. 
-- **[notebooklm-py-MCP](https://github.com/earlyprototype/notebooklm-py-MCP)** — Exposes Google NotebookLM as 72 agent tools. (Plus a 14-tool edition for daily use.)
+- **[notebooklm-py-MCP](https://github.com/earlyprototype/notebooklm-py-MCP)** — Exposes Google NotebookLM as 72 agent tools. (includes a 14-tool lite edition for daily use.)
 - **[hunch_kit](https://github.com/earlyprototype/hunch_kit)** — A local-first experiment framework — isolate one variable, track lineage, score by human judgement — with a full MCP server. 
 
 ## Orchestrating AI agents
 
 - **[early-prototype](https://github.com/earlyprototype/early-prototype)** — **My Claude Code plugin marketplace**: turns solo AI-agent sessions into auditable PM → Worker cycles, with race-safe session identity and human approval before any agent's work counts as done.
-- **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: an 18-workflow prompt framework (with its own MCP server) for deliberate AI development.
+- **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: an 18-workflow prompt framework for deliberate AI development.
 
 ## Applied AI tools
 
