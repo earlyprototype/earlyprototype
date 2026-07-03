@@ -21,7 +21,7 @@ I care about the parts most projects skip: **human-approval gates, tests that ca
 
 ## 🔷 Orchestrating AI agents
 
-- **[early-prototype](https://github.com/earlyprototype/early-prototype)** — My Claude Code plugin marketplace: turns solo AI-agent sessions into auditable PM → Worker cycles, with race-safe session identity and human approval before any agent's work counts as done.
+- **[early-prototype](https://github.com/earlyprototype/early-prototype)** — **My Claude Code plugin marketplace**: turns solo AI-agent sessions into auditable PM → Worker cycles, with race-safe session identity and human approval before any agent's work counts as done.
 - **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: an 18-workflow prompt framework (with its own MCP server) for deliberate AI development — built from real use, including an 85,000-word paper analysis.
 
 ## 🔬 Applied AI tools
