@@ -1,8 +1,8 @@
 # Hi, I'm Thom 👋
 
-**Service designer who builds.** I design services, programmes and assessment tools that help organisations innovate — and I build the AI systems that run them: MCP servers, human-in-the-loop tooling, orchestration frameworks.
+**Service designer who builds.** I design services, programmes and tools that help organisations innovate.
 
-The through-line is **effective human-AI collaboration**: building robust, useful tools and systems with transparency, traceability and verifiability at their core. I also like to experiment and have fun as a route to pushing the boundaries of what's possible — you'll see it in some of the projects below.
+I believe effective use of AI-as-collaborator has the potential to radically reshape the landscape of digital engagement, professional development and ideas, and these projects represent my journey of learning through the process of making.
 
 ---
 
