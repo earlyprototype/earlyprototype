@@ -2,7 +2,7 @@
 
 **Service designer who builds.** I design services, courses and assessment instruments for innovation spaces — and I build the AI systems that run them: MCP servers, human-in-the-loop tooling, orchestration frameworks.
 
-I care about the parts most projects skip: **human-approval gates, tests that catch real bugs, and honest status.** Everything below is built from real practice, not tutorials — several of these tools run my own daily workflow.
+The through-line is **human control of AI**: approval gates people can trust, honest status over optimistic claims, and tools that hold up in daily use.
 
 ---
 
