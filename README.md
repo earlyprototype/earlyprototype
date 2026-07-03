@@ -1,8 +1,8 @@
 # Hi, I'm Thom 👋
 
-**Service designer who builds.** I design services, courses and assessment instruments for innovation spaces — and I build the AI systems that run them: MCP servers, human-in-the-loop tooling, orchestration frameworks.
+**Service designer who builds.** I design services, programmes and assessment tools that help organisations innovate — and I build the AI systems that run them: MCP servers, human-in-the-loop tooling, orchestration frameworks.
 
-The through-line is **human control of AI**: approval gates people can trust, honest status over optimistic claims, and tools that hold up in daily use.
+The through-line is **effective human-AI collaboration**: building robust, useful tools and systems with transparency, traceability and verifiability at their core. I also like to experiment and have fun as a route to pushing the boundaries of what's possible — you'll see it in some of the projects below.
 
 ---
 
