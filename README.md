@@ -8,7 +8,7 @@ I believe effective use of AI-as-collaborator has the potential to radically res
 
 ## Design & method
 
-- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — Systems-mapping and ecosystem-mapping templates for an LLM-integrated knowledge graph: stakeholder influence, value flows, and insight provenance as first-class data.
+- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — An LLM-integrated knowledge graph too: stakeholder influence, value flows, and insight provenance as first-class data with systems-mapping and ecosystem-mapping templates.
 - **[FabLatticeGPT](https://github.com/earlyprototype/FabLatticeGPT)** — A discovery-before-assessment AI advisor from my FabLab practice: it stops members solutioning before their idea is scoped. Built via the OpenAI SME Accelerator.
 - **[FALSE FLAG](https://github.com/earlyprototype/wargame)** — An LLM-driven crisis simulation: multi-agent cabinet advisors, free-form adjudicated decisions, grounded in real NATO wargaming research.
 
