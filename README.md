@@ -1,6 +1,6 @@
 # Hi, I'm Thom
 
-**Service designer who builds.** I design services, programmes and tools that help organisations innovate.
+**Service designer who builds.** I design services, programmes and tools that help people achieve their goals.
 
 I believe effective use of AI-as-collaborator has the potential to radically reshape the landscape of digital engagement, professional development and making ideas real — and these projects represent my journey of learning through the process of making.
 
