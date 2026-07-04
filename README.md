@@ -4,11 +4,15 @@
 
 I believe effective use of AI-as-collaborator has the potential to radically reshape the landscape of digital engagement, professional development and making ideas real — and these projects represent my journey of learning through the process of making.
 
+[![Map of my public projects, clustered around service design, AI systems, and research](assets/practice-map.png)](https://earlyprototype.github.io/knowledge-graph-kit/)
+
+*My public practice, mapped with my own [knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit) — **[click to explore it live](https://earlyprototype.github.io/knowledge-graph-kit/)**.*
+
 ---
 
 ## Design & method
 
-- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — An LLM-integrated knowledge graph too: stakeholder influence, value flows, and insight provenance as first-class data with systems-mapping and ecosystem-mapping templates.
+- **[knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit)** — An LLM-integrated knowledge graph tool: stakeholder influence, value flows, and insight provenance as first-class data with systems-mapping and ecosystem-mapping templates.
 - **[FabLatticeGPT](https://github.com/earlyprototype/FabLatticeGPT)** — A project discovery-before-assessment AI advisor for FabLab members: its job is to prevent solutioning before an idea is properly explored. Built via the OpenAI SME Accelerator.
 - **[FALSE FLAG](https://github.com/earlyprototype/wargame)** — An LLM-driven crisis simulation: multi-agent cabinet advisors and foreign diplomatic staff, free-form adjudicated decisions, grounded in real NATO wargaming research.
 
