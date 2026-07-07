@@ -4,9 +4,13 @@
 
 I believe effective use of AI-as-collaborator has the potential to radically reshape the landscape of digital engagement, professional development and making ideas real — and these projects represent my journey of learning through the process of making.
 
-[![Map of my public projects, clustered around service design, AI systems, and research](assets/practice-map.png)](https://earlyprototype.github.io/knowledge-graph-kit/)
-
-*My public practice, mapped with my own [knowledge-graph-kit](https://github.com/earlyprototype/knowledge-graph-kit) — **[click to explore it live](https://earlyprototype.github.io/knowledge-graph-kit/)**.*
+<p align="center">
+  <a href="https://earlyprototype.github.io/knowledge-graph-kit/">
+    <img src="assets/practice-map.png" alt="Map of my public projects, clustered around service design, AI systems, and research">
+  </a>
+  <br>
+  <em>My public practice, mapped with my own <a href="https://github.com/earlyprototype/knowledge-graph-kit">knowledge-graph-kit</a> — <strong><a href="https://earlyprototype.github.io/knowledge-graph-kit/">click to explore it live</a></strong>.</em>
+</p>
 
 ---
 
