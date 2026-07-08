@@ -32,7 +32,7 @@ I believe effective use of AI-as-collaborator has the potential to radically res
 ## Orchestrating AI agents
 
 - **[early-prototype](https://github.com/earlyprototype/early-prototype)** — **My Claude Code plugin/skills marketplace**
-- **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: an 18-workflow prompt framework for deliberate AI development.
+- **[lia-workflow-specs](https://github.com/earlyprototype/lia-workflow-specs)** — *Slow-code*: an 19-workflow prompt framework for deliberate AI development.
 
 ## Applied AI tools
 
