@@ -43,6 +43,10 @@ I believe effective use of AI-as-collaborator has the potential to radically res
 
 - **[Activation Tensor Resonance](https://github.com/earlyprototype/lucier-gpt2-activ-tensor-reson-experiments)** — Looped GPT-2's own activations back through itself 500× and found it collapsed to one of five words — then built a 125-prompt sweep to see what would happen... 
 
+## Art
+
+- **[crucible-demoscene](https://github.com/earlyprototype/crucible-demoscene)** — Terminal boot sequences and a real-time 3D "breathing crystal" visualization, salvaged from a paused AI framework and restaged in the demoscene tradition.
+
 ---
 
 **Get in touch** — [LinkedIn](https://www.linkedin.com/in/thom-conaty) · [thomconatydesign@gmail.com](mailto:thomconatydesign@gmail.com)
