@@ -39,13 +39,10 @@ I believe effective use of AI-as-collaborator has the potential to radically res
 - **[meTube](https://github.com/earlyprototype/meTube)** — A TypeScript CLI turning YouTube history into a searchable knowledge base (dual transcript pipeline + Gemini). 
 - **[plasticFlowers](https://github.com/earlyprototype/plasticFlowers)** — A real-time speech → knowledge-graph engine (Gemini, Neo4j, Redis Streams) with a hand-built graph-physics layout.
 
-## Research
-
-- **[Activation Tensor Resonance](https://github.com/earlyprototype/lucier-gpt2-activ-tensor-reson-experiments)** — Looped GPT-2's own activations back through itself 500× and found it collapsed to one of five words — then built a 125-prompt sweep to see what would happen... 
-
-## Art
+## Art & Research
 
 - **[crucible-demoscene](https://github.com/earlyprototype/crucible-demoscene)** — Terminal boot sequences and a real-time 3D "breathing crystal" visualization, salvaged from a paused AI framework and restaged in the demoscene tradition.
+- **[Activation Tensor Resonance](https://github.com/earlyprototype/lucier-gpt2-activ-tensor-reson-experiments)** — Looped GPT-2's own activations back through itself 500× and found it collapsed to one of five words — then built a 125-prompt sweep to see what would happen... 
 
 ---
 
